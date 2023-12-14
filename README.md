@@ -39,8 +39,3 @@ It is publicly open for any contribution. Bugfixes, new features and extra modul
 
 * To contribute to code: Fork the repo, push your changes to your fork, and submit a pull request.
 * To report a bug: If something does not work, please report it using [GitHub Issues](https://github.com/yathink3/carbon-react-color-theme).
-
-
-## To Support
-
-[Visit my patreon profile at patreon.com/yathink3](https://www.patreon.com/yathink3)
