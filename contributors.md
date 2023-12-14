@@ -2,4 +2,4 @@
 
 ## Committers
 
-* Eser Ozvataf - @eserozvataf (http://eser.ozvataf.com/)
+* Eser Ozvataf - @yathink3 (http://eser.ozvataf.com/)
