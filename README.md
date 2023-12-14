@@ -1,6 +1,5 @@
 # [Carbon React Color Theme](https://github.com/yathink3/carbon-react-color-theme)
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/yathink3.carbon-react-color-theme.svg)](https://marketplace.visualstudio.com/items?itemName=yathink3.carbon-react-color-theme) [![Installs](https://vsmarketplacebadge.apphb.com/installs/yathink3.carbon-react-color-theme.svg)](https://marketplace.visualstudio.com/items?itemName=yathink3.carbon-react-color-theme) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/yathink3.carbon-react-color-theme.svg)](https://marketplace.visualstudio.com/items?itemName=yathink3.carbon-react-color-theme)
 
 A darker variation of One Dark Pro theme for Visual Studio Code, with Monokai code coloring.
 
