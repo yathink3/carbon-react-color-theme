@@ -13,6 +13,9 @@
   "icon": "images/icon.png",
   "contributes": {
     "configurationDefaults": {
+      "terminal.integrated.defaultProfile.windows": "Command Prompt",
+      "terminal.integrated.defaultProfile.linux": null,
+      "terminal.integrated.defaultProfile.osx": null,
       "editor.fontSize": 13.2,
       "editor.lineHeight": 20,
       "terminal.integrated.lineHeight": 1.1,
