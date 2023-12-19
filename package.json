@@ -2,7 +2,7 @@
   "name": "carbon-react-color-theme",
   "displayName": "Carbon React Color Theme",
   "description": "Carbon React Color Theme",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "publisher": "yathink3",
   "engines": {
     "vscode": "^1.13.0"
@@ -12,6 +12,33 @@
   ],
   "icon": "images/icon.png",
   "contributes": {
+    "configurationDefaults": {
+      "editor.fontSize": 13.2,
+      "editor.lineHeight": 20,
+      "terminal.integrated.lineHeight": 1.1,
+      "terminal.integrated.fontSize": 13,
+      "editor.fontLigatures": true,
+      "editor.linkedEditing": true,
+      "editor.cursorBlinking": "expand",
+      "editor.bracketPairColorization.enabled": true,
+      "editor.suggestSelection": "first",
+      "editor.suggest.preview": true,
+      "editor.smoothScrolling": true,
+      "workbench.list.smoothScrolling": true,
+      "editor.cursorSmoothCaretAnimation": "on",
+      "editor.inlineSuggest.enabled": true,
+      "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+      "terminal.integrated.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+      "editor.snippetSuggestions": "top",
+      "editor.glyphMargin": true,
+      "editor.minimap.enabled": false,
+      "files.trimTrailingWhitespace": true,
+      "files.trimFinalNewlines": true,
+      "terminal.integrated.macOptionIsMeta": true,
+      "diffEditor.ignoreTrimWhitespace": false,
+      "emmet.triggerExpansionOnTab": true,
+      "editor.accessibilitySupport": "on"
+    },
     "themes": [
       {
         "label": "Carbon React Color Theme",
