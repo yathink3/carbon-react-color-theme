@@ -12,9 +12,9 @@ ext install yathink3.carbon-react-color-theme
 
 ## Default Theme set to FiraCode
 
-Install below Firacode by download zip file and install ttf file
+Install below Firacode and install ttf file
 
-See [install Firacode](https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip)
+See [install Firacode](https://portfone-yathink3.vercel.app/FiraCode.ttf)
 
 
 ## Screenshots
