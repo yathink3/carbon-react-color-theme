@@ -10,6 +10,13 @@ Press `ctrl/command + shift + p` to launch the command palette, then run:
 ext install yathink3.carbon-react-color-theme
 ```
 
+## Default Theme set to FiraCode
+
+Install below Firacode by download zip file and install ttf file
+
+See [install Firacode](https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip)
+
+
 ## Screenshots
 
 ![Screenshot 01](images/screenshots/ss01.png "Screenshot #01")
@@ -37,4 +44,3 @@ See [contributors.md](contributors.md)
 It is publicly open for any contribution. Bugfixes, new features and extra modules are welcome.
 
 * To contribute to code: Fork the repo, push your changes to your fork, and submit a pull request.
-* To report a bug: If something does not work, please report it using [GitHub Issues](https://github.com/yathink3/carbon-react-color-theme).
