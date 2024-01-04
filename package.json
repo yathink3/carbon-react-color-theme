@@ -2,7 +2,7 @@
   "name": "carbon-react-color-theme",
   "displayName": "Carbon React Color Theme",
   "description": "Carbon React Color Theme",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "publisher": "yathink3",
   "engines": {
     "vscode": "^1.13.0"
@@ -16,10 +16,6 @@
       "terminal.integrated.defaultProfile.windows": "Command Prompt",
       "terminal.integrated.defaultProfile.linux": null,
       "terminal.integrated.defaultProfile.osx": null,
-      "editor.fontSize": 13.2,
-      "editor.lineHeight": 20,
-      "terminal.integrated.lineHeight": 1.1,
-      "terminal.integrated.fontSize": 13,
       "editor.fontLigatures": true,
       "editor.linkedEditing": true,
       "editor.cursorBlinking": "expand",
