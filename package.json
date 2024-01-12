@@ -41,6 +41,11 @@
         "label": "Carbon React Color Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/CarbonReact-color-theme.json"
+      },
+      {
+        "label": "Carbon React Color Theme - Winter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CarbonReact-color-theme-winter-theme.json"
       }
     ]
   },
@@ -56,7 +61,8 @@
     "monokai",
     "darker",
     "carbon",
-    "react"
+    "react",
+    "winter"
   ],
   "author": "Eser Ozvataf <eser@ozvataf.com> (http://eser.ozvataf.com)",
   "license": "MIT"
