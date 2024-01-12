@@ -2,7 +2,7 @@
   "name": "carbon-react-color-theme",
   "displayName": "Carbon React Color Theme",
   "description": "Carbon React Color Theme",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "publisher": "yathink3",
   "engines": {
     "vscode": "^1.13.0"
@@ -26,8 +26,6 @@
       "workbench.list.smoothScrolling": true,
       "editor.cursorSmoothCaretAnimation": "on",
       "editor.inlineSuggest.enabled": true,
-      "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
-      "terminal.integrated.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
       "editor.snippetSuggestions": "top",
       "editor.glyphMargin": true,
       "editor.minimap.enabled": false,
