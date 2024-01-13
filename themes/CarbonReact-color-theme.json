@@ -84,7 +84,7 @@
 		"widget.shadow": "#06202c",
 		"focusBorder": "#181a1f",
 		"input.background": "#1d1f23",
-		"dropdown.background": "#09142b",
+		"dropdown.background": "#1d1f23",
 		"dropdown.border": "#181a1f",
 		"list.focusBackground": "#383e4a",
 		"list.activeSelectionBackground": "#121212",
