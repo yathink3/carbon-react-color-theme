@@ -2,7 +2,7 @@
   "name": "carbon-react-color-theme",
   "displayName": "Carbon React Color Theme",
   "description": "Carbon React Color Theme",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "publisher": "yathink3",
   "engines": {
     "vscode": "^1.13.0"
@@ -41,6 +41,11 @@
         "label": "Carbon React Color Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/CarbonReact-color-theme.json"
+      },
+      {
+        "label": "Carbon React Color Theme - Pure",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CarbonReact-pure-theme.json"
       },
       {
         "label": "Carbon React Color Theme - Winter",
