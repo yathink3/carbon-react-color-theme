@@ -2,7 +2,7 @@
   "name": "carbon-react-color-theme",
   "displayName": "Carbon React Color Theme",
   "description": "Carbon React Color Theme",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "publisher": "yathink3",
   "engines": {
     "vscode": "^1.13.0"
@@ -13,7 +13,7 @@
   "icon": "images/icon.png",
   "contributes": {
     "configurationDefaults": {
-      "terminal.integrated.defaultProfile.windows": "Command Prompt",
+      "terminal.integrated.defaultProfile.windows": "Git Bash",
       "terminal.integrated.defaultProfile.linux": null,
       "terminal.integrated.defaultProfile.osx": null,
       "editor.fontLigatures": true,
