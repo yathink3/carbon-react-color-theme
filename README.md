@@ -19,8 +19,14 @@ See [install Firacode](https://portfone-yathink3.vercel.app/FiraCode.ttf)
 
 ## Screenshots
 
-![Screenshot 01](images/screenshots/ss01.png "Screenshot #01")
-![Screenshot 02](images/screenshots/ss02.png "Screenshot #02")
+Carbon React Color Theme
+![Screenshot 01](images/screenshots/carbon-color-theme.png "Screenshot #01")
+
+Carbon React Color Theme - Pure
+![Screenshot 02](images/screenshots/carbon-color-theme-pure.png "Screenshot #02")
+
+Carbon React Color Theme - Winter
+![Screenshot 02](images/screenshots/carbon-color-theme-winter.png "Screenshot #02")
 
 ## Todo List
 
