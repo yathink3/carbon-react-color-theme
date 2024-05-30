@@ -1,14 +1,10 @@
 {
 	"fonts": [
 		{
-			"id": "fluent-icons",
+			"id": "carbon-react-icons",
 			"src": [
 				{
 					"path": "./fluent-icons.ttf",
-					"format": "truetype"
-				},
-        {
-					"path": "./FiraCode-Medium.ttf",
 					"format": "truetype"
 				}
 			],

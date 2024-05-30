@@ -1,8 +1,8 @@
 {
   "name": "carbon-react-color-theme",
   "displayName": "Carbon React Color Theme",
-  "description": "The Carbon React Color Theme is a sleek and modern extension that enhances readability and reduces eye strain with its well-balanced color palette.",
-  "version": "1.2.7",
+  "description": "Theme is a sleek, modern extension that enhances readability and reduces eye strain.",
+  "version": "1.2.8",
   "publisher": "yathink3",
   "engines": {
     "vscode": "^1.13.0"
