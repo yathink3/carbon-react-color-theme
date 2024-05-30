@@ -9,12 +9,24 @@ Press `ctrl/command + shift + p` to launch the command palette, then run:
 ```
 ext install yathink3.carbon-react-color-theme
 ```
+## what is new
+
+1.Carbon React Color Theme - Maya
+2.Carbon React Icons
+
 
 ## Default Theme set to FiraCode
 
 Install below Firacode and install ttf file
 
 See [install Firacode](https://portfone-yathink3.vercel.app/FiraCode.ttf)
+
+and in settings add as below
+
+```
+  "editor.fontFamily": "Fira Code",
+  "terminal.integrated.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+```
 
 
 ## Screenshots
@@ -26,7 +38,10 @@ Carbon React Color Theme - Pure
 ![Screenshot 02](images/screenshots/carbon-color-theme-pure.png "Screenshot #02")
 
 Carbon React Color Theme - Winter
-![Screenshot 02](images/screenshots/carbon-color-theme-winter.png "Screenshot #02")
+![Screenshot 02](images/screenshots/carbon-color-theme-winter.png "Screenshot #03")
+
+Carbon React Color Theme - Maya
+![Screenshot 02](images/screenshots/carbon-color-theme-maya.png "Screenshot #04")
 
 ## Todo List
 
