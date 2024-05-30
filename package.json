@@ -1,8 +1,8 @@
 {
   "name": "carbon-react-color-theme",
   "displayName": "Carbon React Color Theme",
-  "description": "Carbon React Color Theme",
-  "version": "1.2.5",
+  "description": "The Carbon React Color Theme is a sleek and modern extension that enhances readability and reduces eye strain with its well-balanced color palette.",
+  "version": "1.2.7",
   "publisher": "yathink3",
   "engines": {
     "vscode": "^1.13.0"
@@ -235,7 +235,9 @@
         "upsert",
         "Usuario",
         "WEBPUSH"
-      ]
+      ],
+      "workbench.productIconTheme": "carbon-react-icons",
+      "workbench.iconTheme": "symbols"
     },
     "themes": [
       {
@@ -252,6 +254,18 @@
         "label": "Carbon React Color Theme - Winter",
         "uiTheme": "vs-dark",
         "path": "./themes/CarbonReact-winter-theme.json"
+      },
+      {
+        "label": "Carbon React Color Theme - Maya",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CarbonReact-maya-theme.json"
+      }
+    ],
+    "productIconThemes": [
+      {
+        "id": "carbon-react-icons",
+        "label": "Carbon React Icons",
+        "path": "./theme/fluent-icons.json"
       }
     ]
   },
