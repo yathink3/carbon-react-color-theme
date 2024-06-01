@@ -2,7 +2,7 @@
   "name": "carbon-react-color-theme",
   "displayName": "Carbon React Color Theme",
   "description": "Theme is a sleek, modern extension that enhances readability and reduces eye strain.",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "publisher": "yathink3",
   "engines": {
     "vscode": "^1.13.0"
@@ -237,7 +237,7 @@
         "WEBPUSH"
       ],
       "workbench.productIconTheme": "carbon-react-icons",
-      "workbench.iconTheme": "symbols"
+      "workbench.iconTheme": "carbon-react-symbols"
     },
     "themes": [
       {
@@ -270,7 +270,14 @@
       {
         "id": "carbon-react-icons",
         "label": "Carbon React Icons",
-        "path": "./themes/fluent-icons.json"
+        "path": "./product-icon-themes/fluent-icons.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "carbon-react-symbols",
+        "label": "Carbon React Symbol",
+        "path": "./icon-themes/symbol-icon-theme.json"
       }
     ]
   },
