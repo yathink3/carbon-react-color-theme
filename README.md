@@ -9,10 +9,11 @@ Press `ctrl/command + shift + p` to launch the command palette, then run:
 ```
 ext install yathink3.carbon-react-color-theme
 ```
-## what is new
+## what's new
 
-1.Carbon React Color Theme - Maya
-2.Carbon React Icons
+1.Carbon React Color Theme - Maya<br/>
+2.Carbon React Color Theme - Maya Black<br/>
+3.Carbon React Icons
 
 
 ## Default Theme set to FiraCode

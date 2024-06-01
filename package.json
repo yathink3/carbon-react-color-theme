@@ -2,7 +2,7 @@
   "name": "carbon-react-color-theme",
   "displayName": "Carbon React Color Theme",
   "description": "Theme is a sleek, modern extension that enhances readability and reduces eye strain.",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "publisher": "yathink3",
   "engines": {
     "vscode": "^1.13.0"
@@ -259,6 +259,11 @@
         "label": "Carbon React Color Theme - Maya",
         "uiTheme": "vs-dark",
         "path": "./themes/CarbonReact-maya-theme.json"
+      },
+      {
+        "label": "Carbon React Color Theme - Maya Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CarbonReact-maya-black-theme.json"
       }
     ],
     "productIconThemes": [
