@@ -237,7 +237,7 @@
         "WEBPUSH"
       ],
       "workbench.productIconTheme": "carbon-react-icons",
-      "workbench.iconTheme": "carbon-react-symbols"
+      "workbench.iconTheme": "carbon-react-monospace"
     },
     "themes": [
       {
@@ -278,6 +278,11 @@
         "id": "carbon-react-symbols",
         "label": "Carbon React Symbol",
         "path": "./icon-themes/symbol-icon-theme.json"
+      },
+      {
+        "id": "carbon-react-monospace",
+        "label": "Carbon React Monospace",
+        "path": "./icon-themes/icons-mono/monospace-idx-file-icon-theme.json"
       }
     ]
   },
