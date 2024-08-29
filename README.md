@@ -25,8 +25,32 @@ See [install Firacode](https://portfone-yathink3.vercel.app/FiraCode.ttf)
 and in settings add as below
 
 ```
-  "editor.fontFamily": "Fira Code",
+  "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
   "terminal.integrated.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+```
+
+## for Monospace theme
+
+Install below Firacode and install ttf file
+
+See [install Firacode](https://portfone-yathink3.vercel.app/FiraCode.ttf)
+
+and in settings add as below
+
+```
+  "editor.fontFamily": "JetBrains Mono, Menlo, Monaco, Courier New, monospace",
+  "terminal.integrated.fontFamily": "JetBrains Mono, Menlo, Monaco, Courier New, monospace",
+```
+
+other settings as below
+
+```
+  "editor.fontLigatures": true,
+  "editor.fontSize": 12.4,
+  "editor.letterSpacing": 0.2,
+  "editor.lineHeight": 1.5,
+  "terminal.integrated.fontSize": 12,
+  "scm.showHistoryGraph": false,
 ```
 
 
