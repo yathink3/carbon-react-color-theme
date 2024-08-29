@@ -20,7 +20,7 @@ ext install yathink3.carbon-react-color-theme
 
 Install below Firacode and install ttf file
 
-See [install Firacode](https://portfone-yathink3.vercel.app/FiraCode.ttf)
+See [install Firacode](https://portfone.vercel.app/FiraCode.ttf)
 
 and in settings add as below
 
@@ -33,7 +33,7 @@ and in settings add as below
 
 Install below Firacode and install ttf file
 
-See [install Firacode](https://portfone-yathink3.vercel.app/FiraCode.ttf)
+See [install Monospace](https://portfone.vercel.app/JetBrainsMono.ttf)
 
 and in settings add as below
 
