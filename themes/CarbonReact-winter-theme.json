@@ -723,6 +723,7 @@
     "widget.shadow": "#219fd5",
     "breadcrumb.background": "#151d25",
     "dropdown.background": "#071021",
-		"dropdown.border": "#181a1f"
+		"dropdown.border": "#181a1f",
+    "focusBorder": "#071021"
   }
 }

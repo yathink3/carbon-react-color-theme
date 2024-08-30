@@ -2,7 +2,7 @@
   "name": "Carbon React Color Theme - Maya",
   "type": "dark",
   "colors": {
-    "focusBorder": "#e6b450b3",
+    "focusBorder": "#0d1017",
     "foreground": "#565b66",
     "widget.shadow": "#00000080",
     "selection.background": "#409fff4d",
