@@ -454,7 +454,18 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#ffb454"
+        "fontStyle": "italic",
+        "foreground": "#98c379"
+      }
+    },
+    {
+      "name": "Meta - Decorator",
+      "scope": [
+        "punctuation.decorator"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#f7ecb5"
       }
     },
     {
