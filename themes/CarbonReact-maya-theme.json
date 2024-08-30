@@ -451,11 +451,22 @@
       }
     },
     {
+			"name": "Tag name",
+			"scope": [
+				"entity.name.tag",
+				"entity.name.tag.class.js",
+				"entity.name.tag.class.jsx"
+			],
+			"settings": {
+				"foreground": "#e06c75"
+			}
+		},
+    {
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#98c379"
+        "foreground": "#a28bc0"
       }
     },
     {
