@@ -59,8 +59,8 @@ To use LigaComicMono as your font:
    [Install LigaComicMono](https://portfone.vercel.app/LigaComicMono.ttf)
 2. In your settings, add the following configuration:
    ```json
-   "editor.fontFamily": "JetBrains Mono, Menlo, Monaco, Courier New, monospace",
-   "terminal.integrated.fontFamily": "JetBrains Mono, Menlo, Monaco, Courier New, monospace",
+   "editor.fontFamily": "Liga Comic Mono, Menlo, Monaco, Courier New, monospace",
+   "terminal.integrated.fontFamily": "Liga Comic Mono, Menlo, Monaco, Courier New, monospace",
    "editor.fontLigatures": true,
    "editor.fontSize": 13.4,
    "editor.letterSpacing": 0.4,
