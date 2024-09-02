@@ -25,9 +25,15 @@ To use Fira Code as your default font:
    ```json
    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
    "terminal.integrated.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+   "editor.fontLigatures": true,
+   "editor.fontSize": 12.4,
+   "editor.letterSpacing": 0.2,
+   "editor.lineHeight": 1.5,
+   "terminal.integrated.fontSize": 12,
+   "scm.showHistoryGraph": false,
    ```
 
-## For Monospace Theme
+## For JetBrains Theme
 
 To use JetBrains Mono as your font:
 
@@ -37,17 +43,31 @@ To use JetBrains Mono as your font:
    ```json
    "editor.fontFamily": "JetBrains Mono, Menlo, Monaco, Courier New, monospace",
    "terminal.integrated.fontFamily": "JetBrains Mono, Menlo, Monaco, Courier New, monospace",
+   "editor.fontLigatures": true,
+   "editor.fontSize": 12.4,
+   "editor.letterSpacing": 0.4,
+   "editor.lineHeight": 1.5,
+   "terminal.integrated.fontSize": 12,
+   "scm.showHistoryGraph": false,
    ```
 
-Additional settings:
-```json
-"editor.fontLigatures": true,
-"editor.fontSize": 12.4,
-"editor.letterSpacing": 0.2,
-"editor.lineHeight": 1.5,
-"terminal.integrated.fontSize": 12,
-"scm.showHistoryGraph": false,
-```
+## For LigaComicMono Theme
+
+To use LigaComicMono as your font:
+
+1. Download and install the JetBrains Mono TTF file from the link below:
+   [Install Monospace](https://portfone.vercel.app/LigaComicMono.ttf)
+2. In your settings, add the following configuration:
+   ```json
+   "editor.fontFamily": "JetBrains Mono, Menlo, Monaco, Courier New, monospace",
+   "terminal.integrated.fontFamily": "JetBrains Mono, Menlo, Monaco, Courier New, monospace",
+   "editor.fontLigatures": true,
+   "editor.fontSize": 13.4,
+   "editor.letterSpacing": 0.4,
+   "editor.lineHeight": 1.4,
+   "terminal.integrated.fontSize": 12.5,
+   "scm.showHistoryGraph": false,
+   ```
 
 ## Screenshots
 
