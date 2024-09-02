@@ -38,7 +38,7 @@ To use Fira Code as your default font:
 To use JetBrains Mono as your font:
 
 1. Download and install the JetBrains Mono TTF file from the link below:
-   [Install Monospace](https://portfone.vercel.app/JetBrainsMono.ttf)
+   [Install JetBrains Mono](https://portfone.vercel.app/JetBrainsMono.ttf)
 2. In your settings, add the following configuration:
    ```json
    "editor.fontFamily": "JetBrains Mono, Menlo, Monaco, Courier New, monospace",
@@ -56,7 +56,7 @@ To use JetBrains Mono as your font:
 To use LigaComicMono as your font:
 
 1. Download and install the JetBrains Mono TTF file from the link below:
-   [Install Monospace](https://portfone.vercel.app/LigaComicMono.ttf)
+   [Install LigaComicMono](https://portfone.vercel.app/LigaComicMono.ttf)
 2. In your settings, add the following configuration:
    ```json
    "editor.fontFamily": "JetBrains Mono, Menlo, Monaco, Courier New, monospace",
