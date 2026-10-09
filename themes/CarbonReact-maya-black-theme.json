@@ -970,6 +970,19 @@
       }
     },
     {
+      "name": "Keywords import and export",
+      "scope": [
+        "keyword.control.import",
+        "keyword.control.export",
+        "keyword.control.from",
+        "keyword.control.default"
+      ],
+      "settings": {
+        "foreground": "#B38CFF",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "scope": "keyword.operator",
       "settings": {
         "foreground": "#D5D8E0"

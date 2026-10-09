@@ -322,6 +322,19 @@
       }
     },
     {
+      "name": "Keywords import and export",
+      "scope": [
+        "keyword.control.import",
+        "keyword.control.export",
+        "keyword.control.from",
+        "keyword.control.default"
+      ],
+      "settings": {
+        "foreground": "#c792ea",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Class name",
       "scope": "entity.name.class",
       "settings": {
