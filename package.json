@@ -11,6 +11,10 @@
     "Themes"
   ],
   "icon": "images/icon.png",
+  "scripts": {
+    "build": "vsce package",
+    "package": "vsce package"
+  },
   "contributes": {
     "configurationDefaults": {
       "terminal.integrated.defaultProfile.windows": "Git Bash",
@@ -297,7 +301,6 @@
     "tailwind",
     "vue",
     "winter",
-    "trae",
     "maya",
     "black",
     "pure",
