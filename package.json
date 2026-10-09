@@ -1,8 +1,8 @@
 {
   "name": "carbon-react-color-theme",
-  "displayName": "Carbon React Color Theme",
+  "displayName": "Maya React Color Theme",
   "description": "Theme is a sleek, modern extension that enhances readability and reduces eye strain.",
-  "version": "1.3.6",
+  "version": "1.5.0",
   "publisher": "yathink3",
   "engines": {
     "vscode": "^1.13.0"
@@ -34,11 +34,9 @@
       "terminal.integrated.macOptionIsMeta": true,
       "diffEditor.ignoreTrimWhitespace": false,
       "emmet.triggerExpansionOnTab": true,
-      "editor.accessibilitySupport": "on",
-      "workbench.activityBar.location": "top",
+      "workbench.activityBar.compact": true,
       "workbench.startupEditor": "newUntitledFile",
       "javascript.suggest.autoImports": true,
-      "extensions.ignoreRecommendations": true,
       "typescript.tsserver.log": "off",
       "files.associations": {
         ".env.*": "dotenv",
@@ -98,7 +96,6 @@
         "!scala",
         "!scss"
       ],
-      "editor.acceptSuggestionOnCommitCharacter": false,
       "explorer.compactFolders": false,
       "git.enableSmartCommit": true,
       "explorer.confirmDragAndDrop": false,
@@ -123,7 +120,6 @@
         ".vscode": true
       },
       "update.mode": "start",
-      "terminal.integrated.gpuAcceleration": "off",
       "window.commandCenter": true,
       "git.openRepositoryInParentFolders": "always",
       "symbols.hidesExplorerArrows": false,
@@ -241,27 +237,22 @@
     },
     "themes": [
       {
-        "label": "Carbon React Color Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/CarbonReact-color-theme.json"
-      },
-      {
-        "label": "Carbon React Color Theme - Pure",
+        "label": "Theme - Pure",
         "uiTheme": "vs-dark",
         "path": "./themes/CarbonReact-pure-theme.json"
       },
       {
-        "label": "Carbon React Color Theme - Winter",
+        "label": "Theme - Winter",
         "uiTheme": "vs-dark",
         "path": "./themes/CarbonReact-winter-theme.json"
       },
       {
-        "label": "Carbon React Color Theme - Maya",
+        "label": "Theme - Maya",
         "uiTheme": "vs-dark",
         "path": "./themes/CarbonReact-maya-theme.json"
       },
       {
-        "label": "Carbon React Color Theme - Maya Black",
+        "label": "Theme - Maya Black",
         "uiTheme": "vs-dark",
         "path": "./themes/CarbonReact-maya-black-theme.json"
       }
@@ -293,14 +284,28 @@
   "homepage": "https://github.com/yathink3/carbon-react-color-theme/blob/master/README.md",
   "keywords": [
     "vscode",
+    "cursor",
     "theme",
     "onedark",
     "monokai",
     "darker",
+    "color",
+    "dracula",
     "carbon",
     "react",
-    "winter"
+    "vite",
+    "tailwind",
+    "vue",
+    "winter",
+    "trae",
+    "maya",
+    "black",
+    "pure",
+    "icons",
+    "product icons",
+    "symbol icons",
+    "monospace icons"
   ],
-  "author": "Eser Ozvataf <eser@ozvataf.com> (http://eser.ozvataf.com)",
+  "author": "Yathin K <yathink3@gmail.com> (https://yathin-engineer.vercel.app)",
   "license": "MIT"
 }
